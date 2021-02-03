@@ -8,6 +8,6 @@ namespace MVC5Tutorial.Areas.Products.Models
     public interface IProductRepository
     {
         IEnumerable<Product> Products { get; }
-        Product this[int ProductType] { get; set; }
+        Product this[int ProductID] { get; set; }
     }
 }

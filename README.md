@@ -8,6 +8,8 @@ MVC controller action method uses Model binding to work directly with Model type
 
 Model binding extract data from various sources like route, form fields of View, or query string, convert strings to .NET data type and provides this extracted data to controller and razor pages in method parameters.
 
+Fore more detailed description and steps please visit - https://geeksarray.com/blog/aspnet-core-mvc-model-binding
+
 ## Files
 
 1. [Product Model](https://github.com/geeksarray/aspnet-core-mvc-model-binding/blob/main/Areas/Products/Models/Product.cs)
@@ -18,5 +20,5 @@ Model binding extract data from various sources like route, form fields of View,
 
 ![ASP.NET Core MVC Model Binding to List of Objects](https://geeksarray.com/images/blog/asp-net-core-mvc-model-binding-to-list-object.png)
 
-Fore more detailed description and steps please visit - https://geeksarray.com/blog/aspnet-core-mvc-model-binding
+
 
